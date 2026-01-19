@@ -1,7 +1,7 @@
 ### Hello there 👋![](.png)
 ###  About Me
 
-I'm a backend engineer building scalable systems with Python, JavaScript, AWS, and Kubernetes. My work focuses on distributed systems, event-driven architecture, and AI/ML infrastructure.
+I'm a backend engineer building scalable systems with Python, JavaScript (Node.js), AWS, Kubernetes, CI/CD and FastAPI. My work focuses on distributed systems, event-driven architecture, and AI/ML infrastructure.
 
 Education: Carnegie Mellon University
 
