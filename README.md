@@ -5,6 +5,8 @@ Backend Engineer (AI) | Building systems people depend on
 
 I am Ashay Koradia. I'm a backend engineer building scalable systems with Python, JavaScript, AWS, and Kubernetes. My work focuses on distributed systems, event-driven architecture, and AI/ML infrastructure.
 
+Education: Carnegie Mellon University
+
 My journey & learnings along the way:
 
 **1. STRATIT - AI Medical Transcription**
@@ -17,20 +19,7 @@ Built event-driven low-code platform processing 10K+ daily operations for Fortun
 
 Learnings: When something breaks, don't just fix it. You're building teams, not code. Make sure the team learns from mistakes and prevents recurrence rather than applying quick fixes. That's how you build resilient systems and teams.
 
-**3. Acquia - Cloud Infrastructure**
-Migrated infrastructure to Kubernetes serving 35 billion monthly page views. Reduced latency by 60%, cut costs by $50K annually. Built monitoring infrastructure that decreased outages by 45%.
-
-Learnings: Learned to learn quickly and work in iterations with frequent feedback. Learned the Kaizen approach: what to change next sprint, what to continue, what to stop. That framework shaped how I approach continuous improvement.
-
-**5. menoVa.ai - Founding Engineer (CMU)
-**Built RAG-powered AI health platform using Python, FastAPI, and LangChain that scaled to 350+ messages/day. Interviewed 30+ women about their needs before writing code.
-
-Technical Skills:
-Python, JavaScript, TypeScript, Go, Java | FastAPI, Node.js, Flask, GraphQL, REST APIs | AWS (EC2, S3, SageMaker), Kubernetes (CKAD), Docker, Terraform | PostgreSQL, MongoDB, Redis | Jenkins CI/CD, GitHub Actions, SumoLogic | Distributed Systems, Microservices, Event-Driven Architecture, Message Queues
-
-Hobbies: Composing music on piano, sound mixing, and playing table tennis.
-
-Education: Carnegie Mellon University
+**5. menoVa.ai - Founding Engineer (CMU)**My team and I founded Menova.ai at the CMU Swartz Centre for Entrepreneurship. Menova.ai helps women going through menopause with personalized guidance and AI-driven support.
 
 You can find me on [![LinkedIn][2.1]][2]
 
